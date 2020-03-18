@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+footer{
+    display: inline;
+}
+.job{
+    padding: 10px 100px;
+}
+#summary{
+    color: blue;
+    border: solid red 1px;
+}
+#aspirations{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+#exper-label{
+    font-weight: bold;
+    font-size: larger;
+}
